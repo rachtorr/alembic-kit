@@ -1,6 +1,6 @@
 ---
 title: 
-feature_image: docs/assets/echopark.jpg
+feature_image: docs/assets/ellwoodbch.jpg
 feature_text: |
   ## Rachel D. Torres 
 ---
