@@ -1,5 +1,6 @@
 ---
 title: CV
+feature_image: docs/assets/NCOS_eugl.jpg
 ---
 
 Rachel D. Torres

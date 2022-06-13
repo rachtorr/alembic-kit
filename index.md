@@ -1,8 +1,8 @@
 ---
-title: 
+title: Rachel Torres
 feature_image: docs/assets/echopark.jpg
 feature_text: |
-  ## Rachel D. Torres 
+  
 ---
 
 Hi! Welcome to my website, it's a work in progress.
@@ -17,5 +17,5 @@ My dissertation research is in urban eco-hydrology, using an [environmental mode
 
 #### Contact 
 email: r_torres@ucsb.edu  
-twitter: [@rdtorr](https://twitter.com/rdtorr)  
-[LinkedIn](https://www.linkedin.com/in/rachel-torres-68639893/)
+{% include icon.html id="twitter" title="twitter" %} [@rdtorr](https://twitter.com/rdtorr)  
+[{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/rachel-torres-68639893/)
