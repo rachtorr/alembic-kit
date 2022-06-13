@@ -20,6 +20,7 @@ Advisors: Dr. Linda McDonald and Dr. Steve Ray
 
 #### TEACHING EXPERIENCE 	
 <br>
+
 **Graduate Lead Teaching Assistant, ENV S2** Introduction to Environmental Science  
 Environmental Studies Department, UCSB (Summer Session B and Winter Quarter, 2020-2022)
 
@@ -29,11 +30,15 @@ Environmental Studies Department, UCSB (Summer Session B and Winter Quarter, 202
   -   Created lesson plans for discussion sections and trained 6 other TAs 
   -   Led transition from online back to in person; organized 20 section times to meet for fieldtrips
 
+<br>
+
 **Instructor, INT 93LS** Our Dynamic Earth   
 Summer Research Academies, UCSB (Summer Session A, 2020)
   - Planned and implemented a 4-week college-level course for high school students that integrated earth systems science, environmental justice, and introduction to the research process
   - Taught virtual lessons using recorded lectures and online activities including labs in R and GIS 
   - Mentored students in group research projects, reviewing and supporting 9 different groups through the steps of asking a research question, collecting data and literature, and writing and presenting a research project
+
+<br>
 
 **Graduate Teaching Assistant, ESM203** Earth Systems Science  
 Bren School of Environmental Science & Management, UCSB (Fall Quarter, 2018-2021) 
@@ -41,17 +46,23 @@ Bren School of Environmental Science & Management, UCSB (Fall Quarter, 2018-2021
   - Hosted office hours and provided one-on-one guidance for students who needed extra help 
   - Graded  assignments and exams and provided feedback and guidance for over 40 students
 
+<br>
+
 **Graduate Teaching Assistant, ESM232** Environmental Modeling  
 Bren School of Environmental Science & Management, UCSB (Spring Quarter, 2020-2022) 
   - Graded over 30 students’ weekly coding assignments 
   - Hosted office hours and guided students through debugging code in R 
   - Lesson planned and taught a coding lab on writing functions in R
 
+<br>
+
 **Graduate Teaching Assistant, STATS5LS** Statistics for the Life Sciences  
 Statistics Department, UCSB (Winter Quarter, 2020) 
   - Led weekly lab and discussion sections demonstrating basic statistics in Microsoft Excel 
   - Graded 75 students’ labs each week and provide feedback, hosted office hours 
   - Proctored exams and graded midterms and final exams 
+
+<br>
 
 **Graduate Teaching Assistant, PHYS6BL** Introductory Physics 
 Physics Department, UCSB (Spring Quarter 2019)
@@ -69,11 +80,15 @@ Tague Lab, Bren School of Environmental Science & Management, UCSB (Summer 2021)
   - Compiled model output into an SQL database 
   - Developed workflow for running the model and selecting and editing output for ease of access in a database
 
+<br>
+
 **Graduate Student Researcher, Jackson Forest thinning project**  
 Tague Lab, Bren School of Environmental Science & Management, UCSB (Summer 2019)
   - Set up eco-hydrologic model with data from localized climate projection scenarios 
   - Tested different vegetation physiology parameters in the model to create a  redwood type
   - Analyzed model outputs of carbon fluxes for different scenarios of thinning and warming 
+
+<br>
 
 **Graduate Student Researcher, Urban stream nitrate project**   
 Tague Lab, Bren School of Environmental Science & Management, UCSB (Summer 2018)
@@ -81,11 +96,15 @@ Tague Lab, Bren School of Environmental Science & Management, UCSB (Summer 2018)
   - Ran coupled eco-hydrologic model to simulate nitrogen cycling in urban vegetation 
   - Troubleshot and debugged new R project that acts as wrapper for environmental model 
 
+<br>
+
 **Science Undergraduate Laboratory Internship, Transportation Systems**    
 Argonne National Laboratory (June – Sept. 2016) 
   - Designed and troubleshot code in Excel VBA for a user-friendly version of VISION, a model of transportation energy use and carbon emissions
   - Updated and analyzed trends of historical data on sales and usage of alternative fueled vehicles 
   - Created a cost calculator tool for the Clean Cities initiative that educates and encourages consumers on electric vehicles 
+
+<br>
 
 **Summer Undergraduate Research Fellow**  
 Scripps Institution of Oceanography (June-Aug. 2015) 
@@ -112,24 +131,34 @@ Argonne National Laboratory (Sept. 2016 –Dec. 2017)
   - Compiled and shared campus and community resources for students’ needs
   - Mentored students on navigating online courses, being a T.A., and handling stress
 
+<br>
+
 **PhD Programming Committee**, Bren School of Environmental Sci. and Mgmt., UCSB (Fall 2021- Spring 2022)
   - Identifying improvement areas for Ph.D. curriculum within Bren School Ph.D. program
   - Meeting 1-2 times per quarter to discuss and push student initiatives on course content 
+
+<br>
 
 **Ph.D. Group Project Mentor**, Bren School of Environmental Sci. & Mgmt., UCSB (Spring 2019 – 2021) 
   - Mentored two groups of Bren Master’s students throughout their group project process of setting up a research plan, compiling background literature, and presenting results 
   - Reviewed project write-ups including draft plans, literature reviews, and drafts of final reports 
   - Attended weekly meetings and provided input regarding the progress of the project 
 
+<br>
+
 **Outreach Coordinator**, Womxn in Science and Engineering (WiSE), UCSB (2020) 
   - Managed the organization’s communication efforts through monthly newsletters that highlight upcoming WiSE events and related campus happenings 
   - Participated in organizing and advertising several community-focused events 
   - Facilitated partnership with other campus groups that support underrepresented students to enhance campus diversity efforts and promote inclusion 
 
+<br>
+
 **Undergraduate Mentorship Organizer**, Womxn in Science and Engineering, UCSB (2019) 
   - Supervised and organized over 300 graduate and undergraduate students by advertising mentorship program, collecting contacts, and pairing mentors with mentees 
   - Organized quarterly meetings with professional development activities 
   - Distributed monthly check-in surveys and facilitated mentorship outreach 
+
+<br>
 
 **Seminar Committee** Bren School of Environmental Sci. & Mgmt., UCSB (Fall 2019 – Spring 2020) 
 Invited relevant speakers in environmental research to campus 
