@@ -7,6 +7,8 @@ feature_text: |
 
 PhD candidate at UC Santa Barbara Bren School of Environmental Science and Management. 
 
+![pic](docs/assets/me.jpg)
+
 ##### Contact 
 
 email: r_torres@ucsb.edu
