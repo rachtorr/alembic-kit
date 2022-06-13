@@ -1,13 +1,13 @@
 ---
 title: 
-feature_image: docs/assets/dtpark-oaks.jpg
+feature_image: docs/assets/dtpark_oaks.jpg
 feature_text: |
   ## Rachel D. Torres 
 ---
 
 Hi! Welcome to my website, it's a work in progress.
 
-<img style="float:right;" src="docs/assets/me-outside.jpg" width="50%">
+<img style="float:right; padding: 20px 20px 20px 20px;" src="docs/assets/me-outside.jpg" width="50%">
 
 #### About   
 I am a PhD candidate at UC Santa Barbara's Bren School of Environmental Science and Management. 
