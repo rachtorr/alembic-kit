@@ -1,6 +1,6 @@
 ---
 title: 
-feature_image: docs/assets/dtpark_oaks.jpg
+feature_image: docs/assets/echopark.jpg
 feature_text: |
   ## Rachel D. Torres 
 ---
@@ -14,8 +14,6 @@ I am a PhD candidate at UC Santa Barbara's Bren School of Environmental Science 
 
 #### Research Interests
 My dissertation research is in urban eco-hydrology, using an [environmental model](https://github.com/RHESSys/RHESSys) to investigate how drought and heatwaves affect ecosystem services from urban trees in Southern California. I am broadly interested in how we can efficiently use water resources to maintain green spaces in cities where green infrastructure is needed to combat urban heat islands, in order to make cities more equitable and sustainable. 
-
-
 
 #### Contact 
 email: r_torres@ucsb.edu  
