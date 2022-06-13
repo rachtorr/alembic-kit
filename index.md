@@ -1,8 +1,8 @@
 ---
-title: 
+title: Rachel Torres
 feature_image: docs/assets/echopark.jpg
 feature_text: |
-  ## Rachel D. Torres 
+  
 ---
 
 Hi! Welcome to my website, it's a work in progress.
