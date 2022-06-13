@@ -23,11 +23,11 @@ Advisors: Dr. Linda McDonald and Dr. Steve Ray
 **Graduate Lead Teaching Assistant, ENV S2** Introduction to Environmental Science  
 Environmental Studies Department, UCSB (Summer Session B and Winter Quarter, 2020-2022)
 
--   Transferred course to virtual by organizing course website and developing online activities 
--   Led weekly discussion sections on environmental science concepts including sustainability, ecology, pollution management, and land conservation 
--   Graded and provided feedback for over 50 students’ essays and other writing assignments 
--   Created lesson plans for discussion sections and trained 6 other TAs 
--   Led transition from online back to in person; organized 20 section times to meet for fieldtrips
+  -   Transferred course to virtual by organizing course website and developing online activities 
+  -   Led weekly discussion sections on environmental science concepts including sustainability, ecology, pollution management, and land conservation 
+  -   Graded and provided feedback for over 50 students’ essays and other writing assignments 
+  -   Created lesson plans for discussion sections and trained 6 other TAs 
+  -   Led transition from online back to in person; organized 20 section times to meet for fieldtrips
 
 **Instructor, INT 93LS** Our Dynamic Earth   
 Summer Research Academies, UCSB (Summer Session A, 2020)
