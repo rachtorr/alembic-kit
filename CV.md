@@ -1,7 +1,5 @@
 ---
 title: CV
-feature_image: docs/assets/echopark.jpg
-feature_text: C.V. 
 ---
 
 Rachel D. Torres
