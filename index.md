@@ -1,8 +1,8 @@
 ---
-title: Rachel Torres
+title: Rachel D. Torres
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
-  ## Rachel Torres
+  ## About 
 ---
 
-Bio etc.
+PhD candidate at UC Santa Barbara Bren School of Environmental Science and Management. 
