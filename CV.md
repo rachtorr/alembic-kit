@@ -1,5 +1,6 @@
 ---
 title: CV
+layout: default
 ---
 
 Rachel D. Torres
