@@ -1,5 +1,7 @@
 ---
 title: CV
+feature_image: docs/assets/ellwoodbch.jpg
+feature_text: C.V. 
 ---
 
 Rachel D. Torres
@@ -21,15 +23,15 @@ Advisors: Dr. Linda McDonald and Dr. Steve Ray
 #### TEACHING EXPERIENCE 	
 
 **Graduate Lead Teaching Assistant, ENV S2** Introduction to Environmental Science  
-Environmental Studies Department, UCSB (Summer Session B and Winter Quarter, 2020-2022)
->>  - Transferred course to virtual by organizing course website and developing online activities 
->>  - Led weekly discussion sections on environmental science concepts including sustainability, ecology, pollution management, and land conservation 
++ Environmental Studies Department, UCSB (Summer Session B and Winter Quarter, 2020-2022)
+  - Transferred course to virtual by organizing course website and developing online activities 
+  - Led weekly discussion sections on environmental science concepts including sustainability, ecology, pollution management, and land conservation 
   - Graded and provided feedback for over 50 students’ essays and other writing assignments 
   - Created lesson plans for discussion sections and trained 6 other TAs 
   - Led transition from online back to in person; organized 20 section times to meet for fieldtrips
 
-> **Instructor, INT 93LS** Our Dynamic Earth   
-> Summer Research Academies, UCSB (Summer Session A, 2020)
+**Instructor, INT 93LS** Our Dynamic Earth   
+Summer Research Academies, UCSB (Summer Session A, 2020)
   - Planned and implemented a 4-week college-level course for high school students that integrated earth systems science, environmental justice, and introduction to the research process
   - Taught virtual lessons using recorded lectures and online activities including labs in R and GIS 
   - Mentored students in group research projects, reviewing and supporting 9 different groups through the steps of asking a research question, collecting data and literature, and writing and presenting a research project
