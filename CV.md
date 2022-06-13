@@ -3,9 +3,9 @@ title: CV
 ---
 
 Rachel D. Torres
+---
 
 #### EDUCATION	
-
 ***
 
 **Ph.D. in Environmental Science and Management** (September 2017 – Current)  
@@ -17,16 +17,15 @@ North Park University – Chicago, IL
 Advisors: Dr. Linda McDonald and Dr. Steve Ray
 
 #### TEACHING EXPERIENCE 	
-
 ***
 
 **Graduate Lead Teaching Assistant, ENV S2** Introduction to Environmental Science  
 Environmental Studies Department, UCSB (Summer Session B and Winter Quarter, 2020-2022)
-  - Transferred course to virtual by organizing course website and developing online activities 
-  - Led weekly discussion sections on environmental science concepts including sustainability, ecology, pollution management, and land conservation 
-  - Graded and provided feedback for over 50 students’ essays and other writing assignments 
-  - Created lesson plans for discussion sections and trained 6 other TAs 
-  -Led transition from online back to in person; organized 20 section times to meet for fieldtrips
+>  - Transferred course to virtual by organizing course website and developing online activities 
+>  - Led weekly discussion sections on environmental science concepts including sustainability, ecology, pollution management, and land conservation 
+>  - Graded and provided feedback for over 50 students’ essays and other writing assignments 
+>  - Created lesson plans for discussion sections and trained 6 other TAs 
+>  - Led transition from online back to in person; organized 20 section times to meet for fieldtrips
 
 **Instructor, INT 93LS** Our Dynamic Earth   
 Summer Research Academies, UCSB (Summer Session A, 2020)
@@ -59,7 +58,6 @@ Physics Department, UCSB (Spring Quarter 2019)
   - Graded lab assignments and final exams for over 130 students 
 
 #### RESEARCH EXPERIENCE	
-
 ***
 
 **Graduate Student Researcher, [SERI-Fire](https://serifire.com/about/) Environmental model visualization development**    
@@ -93,7 +91,6 @@ Scripps Institution of Oceanography (June-Aug. 2015)
   - Communicated professionally with colleagues and presented a research poster
 
 #### PROFESSIONAL EXPERIENCE
-
 ***
 
 **Research Aide, Transportation Systems**  
@@ -103,7 +100,6 @@ Argonne National Laboratory (Sept. 2016 –Dec. 2017)
   - Created multiple databases on electric vehicles and county-level demographics, collecting data from various government sources 
 
 #### MENTORSHIP, COMMITTEES, & VOLUNTEERING	
-
 ***
 
 **Grad Scholars Program Mentor**, Graduate Division, UCSB (Fall 2021- Spring 2022)
@@ -136,7 +132,6 @@ Invited relevant speakers in environmental research to campus
   - Hosted visitors and coordinated meetings with other researchers; facilitated student interactions
 
 #### FELLOWSHIPS/SCHOLARSHIPS & AWARDS
-
 ***	
 
 2022   **UC Santa Barbara, Graduate Student Association**, Excellence in Teaching Award  
@@ -150,7 +145,6 @@ Invited relevant speakers in environmental research to campus
 2013   **North Park University**, Nyvall Scholarship 
 
 #### CONFERENCES/TRAINING WORKSHOPS ATTENDED 
-
 ***
 
 2021  American Geophysical Union Annual Meeting 2021 – New Orleans, LA  
@@ -167,7 +161,6 @@ Invited relevant speakers in environmental research to campus
 2018 Honda Women in Green Forum – Los Angeles 
 
 #### RELEVANT COURSES 
-
 ***	
 
 ESM206 Data Analysis for Environmental Science and Management  
@@ -181,7 +174,6 @@ GEOG243 Vegetation Atmosphere Dynamics
 GEOG260 Biogeochemical Cycles 
 
 #### SKILLS	
-
 ***
 
 **Computer**: Microsoft Office (Word, Excel, PowerPoint, Publisher, Outlook), R, SAS, HTML, javascript, Python, MATLAB, GIS (ArcGIS, QGIS) 
