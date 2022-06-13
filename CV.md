@@ -1,7 +1,5 @@
 ---
 title: CV
-feature_image: docs/assets/ellwoodbch.jpg
-feature_text: C.V. 
 ---
 
 Rachel D. Torres
