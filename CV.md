@@ -3,10 +3,10 @@ title: CV
 ---
 
 Rachel D. Torres
----
+
+***
 
 #### EDUCATION	
-***
 
 **Ph.D. in Environmental Science and Management** (September 2017 – Current)  
 Bren School of Environmental Science & Management – University of California, Santa Barbara (UCSB)  
@@ -16,19 +16,20 @@ Advisor: Dr. Naomi Tague ([Tague Lab](https://tagueteamlab.org/))
 North Park University – Chicago, IL   
 Advisors: Dr. Linda McDonald and Dr. Steve Ray
 
-#### TEACHING EXPERIENCE 	
 ***
+
+#### TEACHING EXPERIENCE 	
 
 **Graduate Lead Teaching Assistant, ENV S2** Introduction to Environmental Science  
 Environmental Studies Department, UCSB (Summer Session B and Winter Quarter, 2020-2022)
->  - Transferred course to virtual by organizing course website and developing online activities 
->  - Led weekly discussion sections on environmental science concepts including sustainability, ecology, pollution management, and land conservation 
->  - Graded and provided feedback for over 50 students’ essays and other writing assignments 
->  - Created lesson plans for discussion sections and trained 6 other TAs 
->  - Led transition from online back to in person; organized 20 section times to meet for fieldtrips
+>>  - Transferred course to virtual by organizing course website and developing online activities 
+>>  - Led weekly discussion sections on environmental science concepts including sustainability, ecology, pollution management, and land conservation 
+  - Graded and provided feedback for over 50 students’ essays and other writing assignments 
+  - Created lesson plans for discussion sections and trained 6 other TAs 
+  - Led transition from online back to in person; organized 20 section times to meet for fieldtrips
 
-**Instructor, INT 93LS** Our Dynamic Earth   
-Summer Research Academies, UCSB (Summer Session A, 2020)
+> **Instructor, INT 93LS** Our Dynamic Earth   
+> Summer Research Academies, UCSB (Summer Session A, 2020)
   - Planned and implemented a 4-week college-level course for high school students that integrated earth systems science, environmental justice, and introduction to the research process
   - Taught virtual lessons using recorded lectures and online activities including labs in R and GIS 
   - Mentored students in group research projects, reviewing and supporting 9 different groups through the steps of asking a research question, collecting data and literature, and writing and presenting a research project
@@ -57,8 +58,9 @@ Physics Department, UCSB (Spring Quarter 2019)
   - Helped physics students at all levels during office hours, often tutoring one-on-one 
   - Graded lab assignments and final exams for over 130 students 
 
-#### RESEARCH EXPERIENCE	
 ***
+
+#### RESEARCH EXPERIENCE	
 
 **Graduate Student Researcher, [SERI-Fire](https://serifire.com/about/) Environmental model visualization development**    
 Tague Lab, Bren School of Environmental Science & Management, UCSB (Summer 2021)
@@ -90,8 +92,9 @@ Scripps Institution of Oceanography (June-Aug. 2015)
   - Compared model results of temperature, density, and wind speed with point data 
   - Communicated professionally with colleagues and presented a research poster
 
-#### PROFESSIONAL EXPERIENCE
 ***
+
+#### PROFESSIONAL EXPERIENCE
 
 **Research Aide, Transportation Systems**  
 Argonne National Laboratory (Sept. 2016 –Dec. 2017) 
@@ -99,8 +102,9 @@ Argonne National Laboratory (Sept. 2016 –Dec. 2017)
   - Developed website for user choice tool, worked on both layout and functionality 
   - Created multiple databases on electric vehicles and county-level demographics, collecting data from various government sources 
 
-#### MENTORSHIP, COMMITTEES, & VOLUNTEERING	
 ***
+
+#### MENTORSHIP, COMMITTEES, & VOLUNTEERING	
 
 **Grad Scholars Program Mentor**, Graduate Division, UCSB (Fall 2021- Spring 2022)
   - Organized and led monthly meetups or check-ins with three first year graduate students
@@ -131,8 +135,9 @@ Invited relevant speakers in environmental research to campus
   - Coordinated guest speaker travel arrangements; tracked expenses and maintained budget 
   - Hosted visitors and coordinated meetings with other researchers; facilitated student interactions
 
-#### FELLOWSHIPS/SCHOLARSHIPS & AWARDS
 ***	
+
+#### FELLOWSHIPS/SCHOLARSHIPS & AWARDS
 
 2022   **UC Santa Barbara, Graduate Student Association**, Excellence in Teaching Award  
 2022   **[NSF-AGEP](https://beta.nsf.gov/funding/opportunities/alliances-graduate-education-and-professoriate-agep)**, California HSI Alliance Fellow  
@@ -144,8 +149,9 @@ Invited relevant speakers in environmental research to campus
 2013   **North Park University**, Trustee Honors   
 2013   **North Park University**, Nyvall Scholarship 
 
-#### CONFERENCES/TRAINING WORKSHOPS ATTENDED 
 ***
+
+#### CONFERENCES/TRAINING WORKSHOPS ATTENDED 
 
 2021  American Geophysical Union Annual Meeting 2021 – New Orleans, LA  
   *Poster presented: Evaluating urban tree resilience to drought and extreme heat in Santa Barbara, CA*  
@@ -160,8 +166,9 @@ Invited relevant speakers in environmental research to campus
 2018 Ridge to Reef Summer Institute – University of California, Irvine   
 2018 Honda Women in Green Forum – Los Angeles 
 
-#### RELEVANT COURSES 
 ***	
+
+#### RELEVANT COURSES 
 
 ESM206 Data Analysis for Environmental Science and Management  
 PSTAT262ST Seminars: Spatial Statistics  
@@ -173,8 +180,9 @@ GEOG214A Advanced Remote Sensing
 GEOG243 Vegetation Atmosphere Dynamics  
 GEOG260 Biogeochemical Cycles 
 
-#### SKILLS	
 ***
+
+#### SKILLS	
 
 **Computer**: Microsoft Office (Word, Excel, PowerPoint, Publisher, Outlook), R, SAS, HTML, javascript, Python, MATLAB, GIS (ArcGIS, QGIS) 
 
