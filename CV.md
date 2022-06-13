@@ -9,7 +9,7 @@ Rachel D. Torres
 ***
 
 #### EDUCATION	
-
+<br>
 **Ph.D. in Environmental Science and Management** (September 2017 – Current)  
 Bren School of Environmental Science & Management – University of California, Santa Barbara (UCSB)  
 Advisor: Dr. Naomi Tague ([Tague Lab](https://tagueteamlab.org/))
@@ -21,14 +21,15 @@ Advisors: Dr. Linda McDonald and Dr. Steve Ray
 ***
 
 #### TEACHING EXPERIENCE 	
-
+<br>
 **Graduate Lead Teaching Assistant, ENV S2** Introduction to Environmental Science  
-+ Environmental Studies Department, UCSB (Summer Session B and Winter Quarter, 2020-2022)
-  - Transferred course to virtual by organizing course website and developing online activities 
-  - Led weekly discussion sections on environmental science concepts including sustainability, ecology, pollution management, and land conservation 
-  - Graded and provided feedback for over 50 students’ essays and other writing assignments 
-  - Created lesson plans for discussion sections and trained 6 other TAs 
-  - Led transition from online back to in person; organized 20 section times to meet for fieldtrips
+Environmental Studies Department, UCSB (Summer Session B and Winter Quarter, 2020-2022)
+
+-   Transferred course to virtual by organizing course website and developing online activities 
+-   Led weekly discussion sections on environmental science concepts including sustainability, ecology, pollution management, and land conservation 
+-   Graded and provided feedback for over 50 students’ essays and other writing assignments 
+-   Created lesson plans for discussion sections and trained 6 other TAs 
+-   Led transition from online back to in person; organized 20 section times to meet for fieldtrips
 
 **Instructor, INT 93LS** Our Dynamic Earth   
 Summer Research Academies, UCSB (Summer Session A, 2020)
@@ -63,7 +64,7 @@ Physics Department, UCSB (Spring Quarter 2019)
 ***
 
 #### RESEARCH EXPERIENCE	
-
+<br>
 **Graduate Student Researcher, [SERI-Fire](https://serifire.com/about/) Environmental model visualization development**    
 Tague Lab, Bren School of Environmental Science & Management, UCSB (Summer 2021)
   - Ran simulations of a coupled wildfire and eco-hydrologic model for a watershed in the Sierra Nevada for future climate change scenarios
@@ -97,7 +98,7 @@ Scripps Institution of Oceanography (June-Aug. 2015)
 ***
 
 #### PROFESSIONAL EXPERIENCE
-
+<br>
 **Research Aide, Transportation Systems**  
 Argonne National Laboratory (Sept. 2016 –Dec. 2017) 
   - Updated and analyzed monthly electric vehicles sales and trends 
@@ -107,7 +108,7 @@ Argonne National Laboratory (Sept. 2016 –Dec. 2017)
 ***
 
 #### MENTORSHIP, COMMITTEES, & VOLUNTEERING	
-
+<br>
 **Grad Scholars Program Mentor**, Graduate Division, UCSB (Fall 2021- Spring 2022)
   - Organized and led monthly meetups or check-ins with three first year graduate students
   - Compiled and shared campus and community resources for students’ needs
@@ -140,7 +141,7 @@ Invited relevant speakers in environmental research to campus
 ***	
 
 #### FELLOWSHIPS/SCHOLARSHIPS & AWARDS
-
+<br>
 2022   **UC Santa Barbara, Graduate Student Association**, Excellence in Teaching Award  
 2022   **[NSF-AGEP](https://beta.nsf.gov/funding/opportunities/alliances-graduate-education-and-professoriate-agep)**, California HSI Alliance Fellow  
 2018   **UC Santa Barbara**, Crossroads Fellow, [Visualizing Environmental Models](https://www.graddiv.ucsb.edu/previous-crossroads-projects/visualizing)   
@@ -154,7 +155,7 @@ Invited relevant speakers in environmental research to campus
 ***
 
 #### CONFERENCES/TRAINING WORKSHOPS ATTENDED 
-
+<br>
 2021  American Geophysical Union Annual Meeting 2021 – New Orleans, LA  
   *Poster presented: Evaluating urban tree resilience to drought and extreme heat in Santa Barbara, CA*  
 
@@ -171,7 +172,7 @@ Invited relevant speakers in environmental research to campus
 ***	
 
 #### RELEVANT COURSES 
-
+<br>
 ESM206 Data Analysis for Environmental Science and Management  
 PSTAT262ST Seminars: Spatial Statistics  
 ESM203 Earth Systems Science  
@@ -185,9 +186,7 @@ GEOG260 Biogeochemical Cycles
 ***
 
 #### SKILLS	
-
+<br>
 **Computer**: Microsoft Office (Word, Excel, PowerPoint, Publisher, Outlook), R, SAS, HTML, javascript, Python, MATLAB, GIS (ArcGIS, QGIS) 
 
 **Languages**: intermediate level in reading Spanish, conversational level in speaking Spanish 
-
-
