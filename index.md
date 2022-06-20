@@ -17,5 +17,5 @@ My dissertation research is in urban eco-hydrology, using an [environmental mode
 
 #### Contact 
 email: r_torres@ucsb.edu  
-{% include icon.html id="twitter" title="twitter" %} [@rdtorr](https://twitter.com/rdtorr)  
+[{% include icon.html id="twitter" title="twitter" %}](https://twitter.com/rdtorr)  
 [{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/rachel-torres-68639893/)
