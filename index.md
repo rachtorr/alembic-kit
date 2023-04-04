@@ -22,8 +22,7 @@ My dissertation research is in urban eco-hydrology; I am motivated to improve ho
   + Our Dynamic Earth, Instructor (INT 93LS) Summer Research Academies, UC Santa Barbara
 
 To find out more, please see my {% include button.html text="CV" link="/cv/" %}
-
-<br> 
+ 
 #### Contact Me
 
 {% include icon.html id="email" title="email" %} r_torres@ucsb.edu  
@@ -36,8 +35,7 @@ To find out more, please see my {% include button.html text="CV" link="/cv/" %}
 
 I've recently started an iNaturalist account for fun, [follow me here](https://www.inaturalist.org/people/656047)
 
-
-<img style="float:center; padding: 20px 20px 20px 20px;" src="docs/assets/NCOS_eugl.jpg" width="100%">
-
+<br> 
+{% include figure.html image="/docs/assets/NCOS_eugl.jpg" caption="Here is a photo of eucalyptus trees in my neighborhood in Goleta, CA" %}
 
 
