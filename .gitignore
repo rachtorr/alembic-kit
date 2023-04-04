@@ -3,3 +3,4 @@ _site/
 docs/assets/*.icloud
 docs/assets/*.jpg
 .Rproj.user
+*.jpg
