@@ -5,7 +5,8 @@ feature_text: |
 
 ---
 
-Rachel D. Torres
+Rachel D. Torres\
+r_torres@ucsb.edu
 
 ***
 
