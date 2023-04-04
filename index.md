@@ -23,8 +23,7 @@ My dissertation research is in urban eco-hydrology; I am motivated to improve ho
 
 To find out more, please see my {% include button.html text="CV" link="/cv/" %}
 
-<img style="float:center; padding: 20px 20px 20px 20px;" src="docs/assets/NCOS_eugl.jpg" width="100%">
-
+<br> 
 #### Contact Me
 
 {% include icon.html id="email" title="email" %} r_torres@ucsb.edu  
@@ -38,6 +37,7 @@ To find out more, please see my {% include button.html text="CV" link="/cv/" %}
 I've recently started an iNaturalist account for fun, [follow me here](https://www.inaturalist.org/people/656047)
 
 
+<img style="float:center; padding: 20px 20px 20px 20px;" src="docs/assets/NCOS_eugl.jpg" width="100%">
 
 
 
