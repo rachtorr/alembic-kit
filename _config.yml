@@ -26,7 +26,7 @@ baseurl: ''
 title: 'Rachel Torres'
 description: 'rachel torres bio and cv'
 permalink: pretty
-logo: 
+logo:
 
 # Pagination
 paginate: 5
@@ -38,6 +38,8 @@ navigation_header:
   url: /
 - title: CV
   url: /cv/
+- title: Teaching
+  url: /teaching/
 
 # Footer nav
 navigation_footer:
