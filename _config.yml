@@ -24,7 +24,7 @@ plugins:
 url: 'https://rachel-torres.netlify.app'
 baseurl: ''
 title: 'Rachel Torres'
-description: 'rachel torres bio and cv'
+description: 'bio and cv'
 permalink: pretty
 logo:
 
