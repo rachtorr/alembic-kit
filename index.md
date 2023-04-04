@@ -9,10 +9,10 @@ feature_text: |
 
 I am a PhD candidate at UC Santa Barbara's [Bren School of Environmental Science and Management](https://bren.ucsb.edu/). I work in the [Tague Lab](https://tagueteamlab.org/) and use the eco-hydrologic model [RHESSys](https://github.com/RHESSys/RHESSys). I am excited about researching nature in cities for climate change adaptation and passionate about teaching earth and environmental sciences. 
 
+
 #### Research Interests
 My dissertation research is in urban eco-hydrology; I am motivated to improve how we can efficiently use water resources to maintain vegetation in cities, especially where green infrastructure is needed to combat urban heat islands and make cities more equitable and sustainable. I use an environmental model to investigate how drought and heatwaves affect ecosystem services from urban trees in Southern California. I use high-resolution remote sensing data of LAI and NDVI for tree species in Santa Barbara, CA to parameterize vegetation in the model, and then set up scenarios with varying irrigation input and tree understory vegetation to test how different landscaping management strategies during drought affect tree health. 
 
-<br>
 
 #### Teaching Experience
   + Data visualization and Science Communication, NSF-AGEP Fellow (ESRM303) Environmental Science and Resource Management, CSU Channel Islands
@@ -23,7 +23,7 @@ My dissertation research is in urban eco-hydrology; I am motivated to improve ho
 
 To find out more, please see my {% include button.html text="CV" link="/cv/" %}
 
-<img style="float:center; padding: 20px 20px 20px 20px;" src="docs/assets/NCOS_eugl.jpg" width="75%">
+<img style="float:center; padding: 20px 20px 20px 20px;" src="docs/assets/NCOS_eugl.jpg" width="100%">
 
 #### Contact Me
 
