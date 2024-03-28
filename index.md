@@ -7,11 +7,13 @@ feature_text: |
 
 <img style="float:right; padding: 20px 20px 20px 20px;" src="docs/assets/me-outside.jpg" width="50%">
 
-I am a PhD candidate at UC Santa Barbara's [Bren School of Environmental Science and Management](https://bren.ucsb.edu/). I work in the [Tague Lab](https://tagueteamlab.org/) and use the eco-hydrologic model [RHESSys](https://github.com/RHESSys/RHESSys). I am excited about researching nature in cities for climate change adaptation and passionate about teaching earth and environmental sciences. 
+Hi! I am Rachel, recently became Dr. Torres. I am currently a postdoctoral researcher with a mutli-institutional network working to develop earth and environmental data science curriculum with an Indigenous methods lens. I work in INRSEP+ at Cal-Poly Humboldt. My collaborators are part of the [Ecological Forecasting Initiative](https://ecoforecast.org/) and the [Geoscience Alliance](https://geosciencealliance.org/). 
 
 
 #### Research Interests
-My dissertation research is in urban eco-hydrology; I am motivated to improve how we can efficiently use water resources to maintain vegetation in cities, especially where green infrastructure is needed to combat urban heat islands and make cities more equitable and sustainable. I use an environmental model to investigate how drought and heatwaves affect ecosystem services from urban trees in Southern California. I use high-resolution remote sensing data of LAI and NDVI for tree species in Santa Barbara, CA to parameterize vegetation in the model, and then set up scenarios with varying irrigation input and tree understory vegetation to test how different landscaping management strategies during drought affect tree health. 
+Received PhD from UC Santa Barbara's [Bren School of Environmental Science and Management](https://bren.ucsb.edu/). I worked in the [Tague Lab](https://tagueteamlab.org/) and used the eco-hydrologic model [RHESSys](https://github.com/RHESSys/RHESSys). 
+
+My dissertation research was in urban eco-hydrology; I am motivated to improve how we can efficiently use water resources and vegetation as green infrastructure to make cities more equitable and sustainable. 
 
 
 #### Teaching Experience
@@ -25,9 +27,7 @@ To find out more, please see my {% include button.html text="CV" link="/cv/" %}
  
 #### Contact Me
 
-{% include icon.html id="email" title="email" %} r_torres@ucsb.edu  
-
-[{% include icon.html id="twitter" title="twitter" %}](https://twitter.com/rdtorr)
+{% include icon.html id="email" title="email" %} rdt47@humboldt.edu  
 
 [{% include icon.html id="linkedin" title="linkedin" %}](https://www.linkedin.com/in/rachel-torres-68639893/)
 

@@ -12,9 +12,16 @@ r_torres@ucsb.edu
 
 #### EDUCATION	
 <br>
-**Ph.D. in Environmental Science and Management** (September 2017 – Current)  
+
+**Postdoctoral researcher** (Jan. 2024)
+Cal-Poly Humboldt, Arcata CA 
+Developing culturally-relevant environmental data science curriculum with multi-institutional network. Funded by Alfred P. Sloan Foundation. 
+
+**Ph.D. in Environmental Science and Management** (September 2017 – December 2023)  
 Bren School of Environmental Science & Management – University of California, Santa Barbara (UCSB)  
 Advisor: Dr. Naomi Tague 
+Thesis: Urban tree drought resilience and outdoor water
+conservation in a Mediterranean climate: insights from an ecohydrologic model
 
 **Bachelor of Science in Physics, *Summa Cum Laude*** (August 2013 - December 2016)  
 North Park University – Chicago, IL   
@@ -23,7 +30,7 @@ Advisors: Dr. Linda McDonald and Dr. Stephen Ray
 ***
 #### RESEARCH EXPERIENCE	
 <br>
-**Ph.D. Dissertation, *Modeling the effects of drought, heat, and landscaping management for climate-	resilient urban trees in a coastal semi-arid city***\
+**Ph.D. Dissertation, *Urban tree drought resilience and outdoor water conservation in a Mediterranean climate: insights from an ecohydrologic model***\
 Bren School of Environmental Science & Management, UCSB, Santa Barbara CA (2017 - 2023)
 
   - developed novel method of vegetation parameterization in RHESSys model using high resolution vegetation indices and lidar-derived LAI data 
@@ -31,6 +38,7 @@ Bren School of Environmental Science & Management, UCSB, Santa Barbara CA (2017 
   - tested variation in land management during drought, outdoor water conservation and turfgrass removal as to how it affects tree health and ecosystem services 
 
 <br>
+
 **Graduate Student Researcher, [SERI-Fire](https://serifire.com/about/) Environmental model visualization development**    
 Tague Lab, Bren School of Environmental Science & Management, UCSB, Santa Barbara CA (Summer 2021)
 
@@ -78,7 +86,9 @@ Scripps Institution of Oceanography, UC San Diego (June-Aug. 2015)
 
 #### PUBLICATIONS
 <br>
-**Torres, R.D.**, Miller, D.L., Alonzo, M., Tague, C.L., McFadden, J.P., Stevenson, S. “Evaluating urban tree resilience to drought and extreme heat in Santa Barbara, CA”. In preparation to submit for publication. 
+**Torres, R.**, Miller, D.L., Alonzo, M., Tague, C.L., McFadden, J.P., Stevenson, S. “Evaluating urban tree resilience to drought and extreme heat in Santa Barbara, CA”. In preparation to submit for publication. 
+
+**Torres, R.**, Tague, C. L., & McFadden, J. P. (2024). Exploring potential trade-offs in outdoor water use reductions and urban tree ecosystem services during an extreme drought in Southern California. Frontiers in Climate, 6. https://doi.org/10.3389/fclim.2024.1280615
 
 Suanda, S. H., Kumar, N., Miller, A. J., Di Lorenzo, E., Haas, K., Cai, D., Edwards, C. A., Washburn, L., Fewings, M. R., **Torres, R.**, & Feddersen, F. (2016). Wind relaxation and a coastal buoyant plume north of Pt. Conception, CA: Observations, simulations, and scalings. Journal of Geophysical Research: Oceans, 121(10), 7455–7475. https://doi.org/10.1002/2016JC011919
 
@@ -234,6 +244,10 @@ Argonne National Laboratory, Lemont IL (Sept. 2016 –Dec. 2017)
 
 #### CONFERENCES/TRAINING WORKSHOPS ATTENDED 
 <br>
+2024  AIHEC Annual Student Conference 
+
+- co-presented data science workshop in R: https://indigenousenvdatasci.github.io/ieds_site/
+
 2022  Frontiers in Hydrology Meeting - San Juan, Puerto Rico 
 
 - eLightning presentation: *Estimating Trade-offs in Outdoor Water Conservation and Vegetation Ecosystem Services in a Semi-arid Urban Environment*
