@@ -12,11 +12,6 @@ r_torres@ucsb.edu
 
 #### EDUCATION	
 <br>
-
-**Postdoctoral researcher** (Jan. 2024)
-Cal-Poly Humboldt, Arcata CA 
-Developing culturally-relevant environmental data science curriculum with multi-institutional network. Funded by Alfred P. Sloan Foundation. 
-
 **Ph.D. in Environmental Science and Management** (September 2017 – December 2023)  
 Bren School of Environmental Science & Management – University of California, Santa Barbara (UCSB)  
 Advisor: Dr. Naomi Tague 
@@ -26,6 +21,12 @@ conservation in a Mediterranean climate: insights from an ecohydrologic model
 **Bachelor of Science in Physics, *Summa Cum Laude*** (August 2013 - December 2016)  
 North Park University – Chicago, IL   
 Advisors: Dr. Linda McDonald and Dr. Stephen Ray
+
+***
+#### CURRENT POSITION 
+**Postdoctoral researcher** (Jan. 2024)
+Cal-Poly Humboldt, Arcata CA 
+Developing culturally-relevant environmental data science curriculum with multi-institutional network. Funded by Alfred P. Sloan Foundation. 
 
 ***
 #### RESEARCH EXPERIENCE	
@@ -94,6 +95,25 @@ Suanda, S. H., Kumar, N., Miller, A. J., Di Lorenzo, E., Haas, K., Cai, D., Edwa
 
 ***
 
+#### PROFESSIONAL EXPERIENCE
+<br>
+**Systems Engineer, Zonehaven**\
+Genasys Inc., San Diego CA (June - Sept. 2022)
+
+- 	Researched methods and data sources for flood modeling to create flood risk maps 
+-   Developed static storm surge flood model using QGIS and Python 
+-   Compiled spatial data and created docker image for the storm surge flood model  
+
+<br>
+**Research Aide, Transportation Systems**  
+Argonne National Laboratory, Lemont IL (Sept. 2016 –Dec. 2017) 
+
+  - Updated and analyzed monthly electric vehicles sales and trends 
+  - Developed website for user choice tool, worked on both layout and functionality 
+  - Created multiple databases on electric vehicles and county-level demographics, collecting data from various government sources 
+
+***
+
 #### TEACHING EXPERIENCE 	
 <br>
 
@@ -157,25 +177,6 @@ Physics Department, UCSB (Spring Quarter 2019)
   - Led introductory physics lab sections using lectures, diagrams, and demonstrations 
   - Helped physics students at all levels during office hours, often tutoring one-on-one 
   - Graded lab assignments and final exams for over 130 students 
-
-***
-
-#### PROFESSIONAL EXPERIENCE
-<br>
-**Systems Engineer, Zonehaven**\
-Genasys Inc., San Diego CA (June - Sept. 2022)
-
-- 	Researched methods and data sources for flood modeling to create flood risk maps 
--   Developed static storm surge flood model using QGIS and Python 
--   Compiled spatial data and created docker image for the storm surge flood model  
-
-<br>
-**Research Aide, Transportation Systems**  
-Argonne National Laboratory, Lemont IL (Sept. 2016 –Dec. 2017) 
-
-  - Updated and analyzed monthly electric vehicles sales and trends 
-  - Developed website for user choice tool, worked on both layout and functionality 
-  - Created multiple databases on electric vehicles and county-level demographics, collecting data from various government sources 
 
 ***
 
