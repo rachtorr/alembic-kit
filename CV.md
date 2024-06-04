@@ -29,13 +29,14 @@ Advisors: Dr. Linda McDonald and Dr. Stephen Ray
 #### RESEARCH EXPERIENCE	
 <br>
 
-**Postdoctoral researcher**, *current position*
-California State Polytechnic University Humboldt, Arcata CA (Jan. 2024)
+**Postdoctoral researcher**, *current position*\
+California State Polytechnic University Humboldt, Arcata CA (Jan. 2024)\
 Developing culturally-relevant environmental data science curriculum with multi-institutional network. Funded by Alfred P. Sloan Foundation. 
 
 <br> 
 
-**Ph.D. Dissertation, *Urban tree drought resilience and outdoor water conservation in a Mediterranean climate: insights from an ecohydrologic model***\
+**Ph.D. Dissertation**\
+*Urban tree drought resilience and outdoor water conservation in a Mediterranean climate: insights from an ecohydrologic model*\
 Bren School of Environmental Science & Management, UCSB, Santa Barbara CA (2017 - 2023)
 
   - developed novel method of vegetation parameterization in RHESSys model using high resolution vegetation indices and lidar-derived LAI data 
@@ -44,8 +45,8 @@ Bren School of Environmental Science & Management, UCSB, Santa Barbara CA (2017 
 
 <br>
 
-**Graduate Student Researcher** 
-Tague Lab, Bren School of Environmental Science & Management, UCSB, Santa Barbara CA (2018-2021)
+**Graduate Student Researcher, Tague Lab**\
+Bren School of Environmental Science & Management, UCSB, Santa Barbara CA (2018-2021)
 
   - [SERI-Fire](https://serifire.com/about/) Environmental model visualization development, simulating coupled wildfire and ecohydrologic model 
   - Jackson Forest thinning project, simulating carbon fluxes from redwood forest with climate change effects
@@ -59,7 +60,7 @@ Argonne National Laboratory, Lemont IL (June – Sept. 2016)
 <br>
 
 **Summer Undergraduate Research Fellow**  
-Scripps Institution of Oceanography, UC San Diego (June-Aug. 2015) 
+Scripps Institution of Oceanography, UC San Diego, La Jolla CA (June-Aug. 2015) 
 
 ***
 
@@ -102,7 +103,8 @@ Physics Department, UCSB (Spring Quarter 2019)
 
 #### PROFESSIONAL EXPERIENCE
 <br>
-**Systems Engineer, Zonehaven**\
+
+**Systems Engineer, Zonehaven**
 Genasys Inc., San Diego CA (June - Sept. 2022)
 
 - 	Researched methods and data sources for flood modeling to create flood risk maps 
@@ -111,7 +113,7 @@ Genasys Inc., San Diego CA (June - Sept. 2022)
 
 <br>
 
-**Research Aide, Transportation Systems**\  
+**Research Aide, Transportation Systems** 
 Argonne National Laboratory, Lemont IL (Sept. 2016 –Dec. 2017) 
 
   - Updated and analyzed monthly electric vehicles sales and trends 
@@ -123,42 +125,42 @@ Argonne National Laboratory, Lemont IL (Sept. 2016 –Dec. 2017)
 #### MENTORSHIP, COMMITTEES, & VOLUNTEERING	
 <br>
 
-**Grad Scholars Program Mentor**, Graduate Division, UCSB (Fall 2021- Spring 2022)
+Grad Scholars Program Mentor, Graduate Division, UCSB (Fall 2021- Spring 2022)
 
-**PhD Programming Committee**, Bren School of Environmental Sci. and Mgmt., UCSB (Fall 2021- Spring 2022)
+PhD Programming Committee, Bren School of Environmental Sci. and Mgmt., UCSB (Fall 2021- Spring 2022)
 
-**Ph.D. Group Project Mentor**, Bren School of Environmental Sci. & Mgmt., UCSB (Spring 2019 – 2021) 
+Ph.D. Group Project Mentor, Bren School of Environmental Sci. & Mgmt., UCSB (Spring 2019 – 2021) 
 
-**Outreach Coordinator**, Womxn in Science and Engineering (WiSE), UCSB (2020) 
+Outreach Coordinator, Womxn in Science and Engineering (WiSE), UCSB (2020) 
 
-**Undergraduate Mentorship Organizer**, Womxn in Science and Engineering, UCSB (2019) 
+Undergraduate Mentorship Organizer, Womxn in Science and Engineering, UCSB (2019) 
 
-**Seminar Committee** Bren School of Environmental Sci. & Mgmt., UCSB (Fall 2019 – Spring 2020)
+Seminar Committee Bren School of Environmental Sci. & Mgmt., UCSB (Fall 2019 – Spring 2020)
 
 ***	
 
 #### FELLOWSHIPS/SCHOLARSHIPS & AWARDS
 <br>
 
-2023   **Bren School of Environmental Science and Management**, Teaching Assistant Award
+2023   Bren School of Environmental Science and Management, Teaching Assistant Award
 
-2022   **UC Santa Barbara, Graduate Student Association**, Excellence in Teaching Award  
+2022   UC Santa Barbara, Graduate Student Association, Excellence in Teaching Award  
 
-2022   **NSF-AGEP**, [California HSI Alliance Fellow](https://www.california-hsi-agep.org/)  
+2022   NSF-AGEP, [California HSI Alliance Fellow](https://www.california-hsi-agep.org/)  
 
-2018   **UC Santa Barbara**, Crossroads Fellow, [Visualizing Environmental Models](https://www.graddiv.ucsb.edu/previous-crossroads-projects/visualizing)   
+2018   UC Santa Barbara, Crossroads Fellow, [Visualizing Environmental Models](https://www.graddiv.ucsb.edu/previous-crossroads-projects/visualizing)   
 
-2018   **UC Santa Barbara Associated Students**, [Coastal Fund Scholarship](https://coastalfund.as.ucsb.edu/)  
+2018   UC Santa Barbara Associated Students, [Coastal Fund Scholarship](https://coastalfund.as.ucsb.edu/)  
 
-2018   **Earth Research Institute**, Groundwater Resources Association of California, [Central Coast](https://www.grac.org/central-coast/)   
+2018   Earth Research Institute, Groundwater Resources Association of California, [Central Coast](https://www.grac.org/central-coast/)   
 
-2017   **Bren School of Environmental Science and Management**, Michael J. Connell Memorial Fellowship    
+2017   Bren School of Environmental Science and Management, Michael J. Connell Memorial Fellowship    
 
-2014   **North Park University**, Physics Honors Scholarship   
+2014   North Park University, Physics Honors Scholarship   
 
-2013   **North Park University**, Trustee Honors   
+2013   North Park University, Trustee Honors   
 
-2013   **North Park University**, Nyvall Scholarship 
+2013   North Park University, Nyvall Scholarship 
 
 ***
 
