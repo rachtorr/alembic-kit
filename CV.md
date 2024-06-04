@@ -102,7 +102,7 @@ Physics Department, UCSB (Spring Quarter 2019)
 
 #### PROFESSIONAL EXPERIENCE
 <br>
-**Systems Engineer, Zonehaven**\
+**Systems Engineer, Zonehaven**
 Genasys Inc., San Diego CA (June - Sept. 2022)
 
 - 	Researched methods and data sources for flood modeling to create flood risk maps 
@@ -140,14 +140,23 @@ Argonne National Laboratory, Lemont IL (Sept. 2016 –Dec. 2017)
 #### FELLOWSHIPS/SCHOLARSHIPS & AWARDS
 <br>
 2023   **Bren School of Environmental Science and Management**, Teaching Assistant Award
+
 2022   **UC Santa Barbara, Graduate Student Association**, Excellence in Teaching Award  
+
 2022   **NSF-AGEP**, [California HSI Alliance Fellow](https://www.california-hsi-agep.org/)  
+
 2018   **UC Santa Barbara**, Crossroads Fellow, [Visualizing Environmental Models](https://www.graddiv.ucsb.edu/previous-crossroads-projects/visualizing)   
+
 2018   **UC Santa Barbara Associated Students**, [Coastal Fund Scholarship](https://coastalfund.as.ucsb.edu/)  
+
 2018   **Earth Research Institute**, Groundwater Resources Association of California, [Central Coast](https://www.grac.org/central-coast/)   
+
 2017   **Bren School of Environmental Science and Management**, Michael J. Connell Memorial Fellowship    
+
 2014   **North Park University**, Physics Honors Scholarship   
+
 2013   **North Park University**, Trustee Honors   
+
 2013   **North Park University**, Nyvall Scholarship 
 
 ***
