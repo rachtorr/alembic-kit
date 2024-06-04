@@ -12,12 +12,14 @@ Arcata, CA
 
 #### EDUCATION	
 <br>
+
 **Ph.D. in Environmental Science and Management** (September 2017 – December 2023)  
 Bren School of Environmental Science & Management, University of California, Santa Barbara (UCSB) - Santa Barbara, CA
 Advisor: Dr. Naomi Tague 
 Thesis: Urban tree drought resilience and outdoor water
 conservation in a Mediterranean climate: insights from an ecohydrologic model
 <br>
+
 **Bachelor of Science in Physics, *Summa Cum Laude*** (August 2013 - December 2016)  
 North Park University – Chicago, IL   
 Advisors: Dr. Linda McDonald and Dr. Stephen Ray
@@ -26,9 +28,12 @@ Advisors: Dr. Linda McDonald and Dr. Stephen Ray
 
 #### RESEARCH EXPERIENCE	
 <br>
+
 **Postdoctoral researcher**, *current position*
 California State Polytechnic University Humboldt, Arcata CA (Jan. 2024)
 Developing culturally-relevant environmental data science curriculum with multi-institutional network. Funded by Alfred P. Sloan Foundation. 
+
+<br> 
 
 **Ph.D. Dissertation, *Urban tree drought resilience and outdoor water conservation in a Mediterranean climate: insights from an ecohydrologic model***\
 Bren School of Environmental Science & Management, UCSB, Santa Barbara CA (2017 - 2023)
