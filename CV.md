@@ -102,7 +102,7 @@ Physics Department, UCSB (Spring Quarter 2019)
 
 #### PROFESSIONAL EXPERIENCE
 <br>
-**Systems Engineer, Zonehaven**
+**Systems Engineer, Zonehaven**\
 Genasys Inc., San Diego CA (June - Sept. 2022)
 
 - 	Researched methods and data sources for flood modeling to create flood risk maps 
@@ -111,7 +111,7 @@ Genasys Inc., San Diego CA (June - Sept. 2022)
 
 <br>
 
-**Research Aide, Transportation Systems**  
+**Research Aide, Transportation Systems**\  
 Argonne National Laboratory, Lemont IL (Sept. 2016 –Dec. 2017) 
 
   - Updated and analyzed monthly electric vehicles sales and trends 
@@ -139,6 +139,7 @@ Argonne National Laboratory, Lemont IL (Sept. 2016 –Dec. 2017)
 
 #### FELLOWSHIPS/SCHOLARSHIPS & AWARDS
 <br>
+
 2023   **Bren School of Environmental Science and Management**, Teaching Assistant Award
 
 2022   **UC Santa Barbara, Graduate Student Association**, Excellence in Teaching Award  
