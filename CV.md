@@ -6,14 +6,14 @@ feature_text: |
 ---
 
 Rachel D. Torres\
-r_torres@ucsb.edu
-
+rachel.torres@humboldt.edu
+Arcata, CA
 ***
 
 #### EDUCATION	
 <br>
 **Ph.D. in Environmental Science and Management** (September 2017 – December 2023)  
-Bren School of Environmental Science & Management – University of California, Santa Barbara (UCSB)  
+Bren School of Environmental Science & Management, University of California, Santa Barbara (UCSB) - Santa Barbara, CA
 Advisor: Dr. Naomi Tague 
 Thesis: Urban tree drought resilience and outdoor water
 conservation in a Mediterranean climate: insights from an ecohydrologic model
@@ -23,14 +23,13 @@ North Park University – Chicago, IL
 Advisors: Dr. Linda McDonald and Dr. Stephen Ray
 
 ***
-#### CURRENT POSITION 
-**Postdoctoral researcher** (Jan. 2024)
-Cal-Poly Humboldt, Arcata CA 
-Developing culturally-relevant environmental data science curriculum with multi-institutional network. Funded by Alfred P. Sloan Foundation. 
 
-***
 #### RESEARCH EXPERIENCE	
 <br>
+**Postdoctoral researcher,***current position*
+California State Polytechnic University Humboldt, Arcata CA (Jan. 2024)
+Developing culturally-relevant environmental data science curriculum with multi-institutional network. Funded by Alfred P. Sloan Foundation. 
+
 **Ph.D. Dissertation, *Urban tree drought resilience and outdoor water conservation in a Mediterranean climate: insights from an ecohydrologic model***\
 Bren School of Environmental Science & Management, UCSB, Santa Barbara CA (2017 - 2023)
 
@@ -40,30 +39,12 @@ Bren School of Environmental Science & Management, UCSB, Santa Barbara CA (2017 
 
 <br>
 
-**Graduate Student Researcher, [SERI-Fire](https://serifire.com/about/) Environmental model visualization development**    
-Tague Lab, Bren School of Environmental Science & Management, UCSB, Santa Barbara CA (Summer 2021)
+**Graduate Student Researcher** 
+Tague Lab, Bren School of Environmental Science & Management, UCSB, Santa Barbara CA (2018-2021)
 
-  - Ran simulations of a coupled wildfire and eco-hydrologic model for a watershed in the Sierra Nevada for future climate change scenarios
-  - Compiled model output into an SQL database 
-  - Developed workflow for running the model and selecting and editing output for ease of access in a database
-
-<br>
-
-**Graduate Student Researcher, Jackson Forest thinning project**  
-Tague Lab, Bren School of Environmental Science & Management, UCSB, Santa Barbara CA (Summer 2019)
-
-  - Set up eco-hydrologic model with data from localized climate projection scenarios 
-  - Tested different vegetation physiology parameters in the model to create a  redwood type
-  - Analyzed model outputs of carbon fluxes for different scenarios of thinning and warming 
-
-<br>
-
-**Graduate Student Researcher, Urban stream nitrate project**   
-Tague Lab, Bren School of Environmental Science & Management, UCSB, Santa Barbara CA (Summer 2018)
-
-  - Summarized literature regarding green infrastructure and environmental modelling 
-  - Ran coupled eco-hydrologic model to simulate nitrogen cycling in urban vegetation 
-  - Troubleshot and debugged new R project that acts as wrapper for environmental model 
+  - [SERI-Fire](https://serifire.com/about/) Environmental model visualization development, simulating coupled wildfire and ecohydrologic model 
+  - Jackson Forest thinning project, simulating carbon fluxes from redwood forest with climate change effects
+  - Urban stream nitrate project, summarizing green infrastructure and ecohydrologic modeling literature, simulating urban nitrogen cycling
 
 <br>
 
@@ -87,30 +68,12 @@ Scripps Institution of Oceanography, UC San Diego (June-Aug. 2015)
 
 #### PUBLICATIONS
 <br>
+
 **Torres, R.**, Miller, D.L., Alonzo, M., Tague, C.L., McFadden, J.P., Stevenson, S. “Evaluating urban tree resilience to drought and extreme heat in Santa Barbara, CA”. In preparation to submit for publication. 
 
 **Torres, R.**, Tague, C. L., & McFadden, J. P. (2024). Exploring potential trade-offs in outdoor water use reductions and urban tree ecosystem services during an extreme drought in Southern California. Frontiers in Climate, 6. https://doi.org/10.3389/fclim.2024.1280615
 
 Suanda, S. H., Kumar, N., Miller, A. J., Di Lorenzo, E., Haas, K., Cai, D., Edwards, C. A., Washburn, L., Fewings, M. R., **Torres, R.**, & Feddersen, F. (2016). Wind relaxation and a coastal buoyant plume north of Pt. Conception, CA: Observations, simulations, and scalings. Journal of Geophysical Research: Oceans, 121(10), 7455–7475. https://doi.org/10.1002/2016JC011919
-
-***
-
-#### PROFESSIONAL EXPERIENCE
-<br>
-**Systems Engineer, Zonehaven**\
-Genasys Inc., San Diego CA (June - Sept. 2022)
-
-- 	Researched methods and data sources for flood modeling to create flood risk maps 
--   Developed static storm surge flood model using QGIS and Python 
--   Compiled spatial data and created docker image for the storm surge flood model  
-
-<br>
-**Research Aide, Transportation Systems**  
-Argonne National Laboratory, Lemont IL (Sept. 2016 –Dec. 2017) 
-
-  - Updated and analyzed monthly electric vehicles sales and trends 
-  - Developed website for user choice tool, worked on both layout and functionality 
-  - Created multiple databases on electric vehicles and county-level demographics, collecting data from various government sources 
 
 ***
 
@@ -180,6 +143,26 @@ Physics Department, UCSB (Spring Quarter 2019)
 
 ***
 
+#### PROFESSIONAL EXPERIENCE
+<br>
+**Systems Engineer, Zonehaven**\
+Genasys Inc., San Diego CA (June - Sept. 2022)
+
+- 	Researched methods and data sources for flood modeling to create flood risk maps 
+-   Developed static storm surge flood model using QGIS and Python 
+-   Compiled spatial data and created docker image for the storm surge flood model  
+
+<br>
+
+**Research Aide, Transportation Systems**  
+Argonne National Laboratory, Lemont IL (Sept. 2016 –Dec. 2017) 
+
+  - Updated and analyzed monthly electric vehicles sales and trends 
+  - Developed website for user choice tool, worked on both layout and functionality 
+  - Created multiple databases on electric vehicles and county-level demographics, collecting data from various government sources 
+
+***
+
 #### MENTORSHIP, COMMITTEES, & VOLUNTEERING	
 <br>
 **Grad Scholars Program Mentor**, Graduate Division, UCSB (Fall 2021- Spring 2022)
@@ -231,12 +214,13 @@ Physics Department, UCSB (Spring Quarter 2019)
 
 #### FELLOWSHIPS/SCHOLARSHIPS & AWARDS
 <br>
+2023   **Bren School of Environmental Science and Management**, Teaching Assistant Award
 2022   **UC Santa Barbara, Graduate Student Association**, Excellence in Teaching Award  
 2022   **NSF-AGEP**, [California HSI Alliance Fellow](https://www.california-hsi-agep.org/)  
 2018   **UC Santa Barbara**, Crossroads Fellow, [Visualizing Environmental Models](https://www.graddiv.ucsb.edu/previous-crossroads-projects/visualizing)   
 2018   **UC Santa Barbara Associated Students**, [Coastal Fund Scholarship](https://coastalfund.as.ucsb.edu/)  
 2018   **Earth Research Institute**, Groundwater Resources Association of California, [Central Coast](https://www.grac.org/central-coast/)   
-2017   **Bren School of Environmental Sci. and Mgmt**, Michael J. Connell Memorial Fellowship    
+2017   **Bren School of Environmental Science and Management**, Michael J. Connell Memorial Fellowship    
 2014   **North Park University**, Physics Honors Scholarship   
 2013   **North Park University**, Trustee Honors   
 2013   **North Park University**, Nyvall Scholarship 
@@ -247,7 +231,7 @@ Physics Department, UCSB (Spring Quarter 2019)
 <br>
 2024  AIHEC Annual Student Conference 
 
-- co-presented data science workshop in R: https://indigenousenvdatasci.github.io/ieds_site/
+- co-presented data science workshop in R: https://indigenousenvdatasci.github.io/water-section.html
 
 2022  Frontiers in Hydrology Meeting - San Juan, Puerto Rico 
 
