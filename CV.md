@@ -56,18 +56,10 @@ Tague Lab, Bren School of Environmental Science & Management, UCSB, Santa Barbar
 **Science Undergraduate Laboratory Internship, Transportation Systems**    
 Argonne National Laboratory, Lemont IL (June – Sept. 2016) 
 
-  - Designed and troubleshot code in Excel VBA for a user-friendly version of VISION, a model of transportation energy use and carbon emissions
-  - Updated and analyzed trends of historical data on sales and usage of alternative fueled vehicles 
-  - Created a cost calculator tool for the Clean Cities initiative that educates and encourages consumers on electric vehicles 
-
 <br>
 
 **Summer Undergraduate Research Fellow**  
 Scripps Institution of Oceanography, UC San Diego (June-Aug. 2015) 
-
-  - Analyzed output of nearshore physical oceanographic model using Matlab 
-  - Compared model results of temperature, density, and wind speed with point data 
-  - Communicated professionally with colleagues and presented a research poster
 
 ***
 
@@ -88,63 +80,23 @@ Suanda, S. H., Kumar, N., Miller, A. J., Di Lorenzo, E., Haas, K., Cai, D., Edwa
 **NSF-AGEP Fellow, ESRM 303** Data Visualization and Climate Communication\
 Environmental Science and Resources Management, CSU Channel Islands (Fall 2022)
 
--   Designed and taught a module on data visualization in R, scaffolding the steps to use ggplot 
-- 	Led lectures and discussions on science communication using conceptual models and graphical abstracts, mentored students in midterm projects on public science communication products   
-
-<br>
 **Graduate Lead Teaching Assistant, ENV S2** Introduction to Environmental Science  
 Environmental Studies Department, UCSB (Summer Session B and Winter Quarter, 2020-2022)
-
-  -   Transferred course to virtual by organizing course website and developing online activities 
-  -   Led weekly discussion sections on environmental science concepts including sustainability, ecology, pollution management, and land conservation 
-  -   Graded and provided feedback for over 50 students’ essays and other writing assignments 
-  -   Created lesson plans for discussion sections and trained 6 other TAs 
-  -   Led transition from online back to in person; organized 20 section times to meet for fieldtrips
-
-<br>
 
 **Instructor, INT 93LS** Our Dynamic Earth   
 Summer Research Academies, UCSB (Summer Session A, 2020)
 
-  - Planned and implemented a 4-week college-level course for high school students that integrated earth systems science, environmental justice, and introduction to the research process
-  - Taught virtual lessons using recorded lectures and online activities including labs in R and GIS 
-  - Mentored students in group research projects, reviewing and supporting 9 different groups through the steps of asking a research question, collecting data and literature, and writing and presenting a research project
-
-<br>
-
 **Graduate Teaching Assistant, ESM203** Earth Systems Science  
 Bren School of Environmental Science & Management, UCSB (Fall Quarter, 2018-2021) 
-
-  - Planned and lead sections through discussion and lectures covering Earth Systems Science including topics in hydrology, atmospheric dynamics, thermodynamics, and climate change
-  - Hosted office hours and provided one-on-one guidance for students who needed extra help 
-  - Graded  assignments and exams and provided feedback and guidance for over 40 students
-
-<br>
 
 **Graduate Teaching Assistant, ESM232** Environmental Modeling  
 Bren School of Environmental Science & Management, UCSB (Spring Quarter, 2020-2022) 
 
-  - Graded over 30 students’ weekly coding assignments 
-  - Hosted office hours and guided students through debugging code in R 
-  - Lesson planned and taught a coding lab on writing functions in R
-
-<br>
-
 **Graduate Teaching Assistant, STATS5LS** Statistics for the Life Sciences  
 Statistics Department, UCSB (Winter Quarter, 2020) 
 
-  - Led weekly lab and discussion sections demonstrating basic statistics in Microsoft Excel 
-  - Graded 75 students’ labs each week and provide feedback, hosted office hours 
-  - Proctored exams and graded midterms and final exams 
-
-<br>
-
 **Graduate Teaching Assistant, PHYS6BL** Introductory Physics\
 Physics Department, UCSB (Spring Quarter 2019)
-
-  - Led introductory physics lab sections using lectures, diagrams, and demonstrations 
-  - Helped physics students at all levels during office hours, often tutoring one-on-one 
-  - Graded lab assignments and final exams for over 130 students 
 
 ***
 
@@ -170,50 +122,18 @@ Argonne National Laboratory, Lemont IL (Sept. 2016 –Dec. 2017)
 
 #### MENTORSHIP, COMMITTEES, & VOLUNTEERING	
 <br>
+
 **Grad Scholars Program Mentor**, Graduate Division, UCSB (Fall 2021- Spring 2022)
-
-  - Organized and led monthly meetups or check-ins with three first year graduate students
-  - Compiled and shared campus and community resources for students’ needs
-  - Mentored students on navigating online courses, being a T.A., and handling stress
-
-<br>
 
 **PhD Programming Committee**, Bren School of Environmental Sci. and Mgmt., UCSB (Fall 2021- Spring 2022)
 
-  - Identifying improvement areas for Ph.D. curriculum within Bren School Ph.D. program
-  - Meeting 1-2 times per quarter to discuss and push student initiatives on course content 
-
-<br>
-
 **Ph.D. Group Project Mentor**, Bren School of Environmental Sci. & Mgmt., UCSB (Spring 2019 – 2021) 
-
-  - Mentored two groups of Bren Master’s students throughout their group project process of setting up a research plan, compiling background literature, and presenting results 
-  - Reviewed project write-ups including draft plans, literature reviews, and drafts of final reports 
-  - Attended weekly meetings and provided input regarding the progress of the project 
-
-<br>
 
 **Outreach Coordinator**, Womxn in Science and Engineering (WiSE), UCSB (2020) 
 
-  - Managed the organization’s communication efforts through monthly newsletters that highlight upcoming WiSE events and related campus happenings 
-  - Participated in organizing and advertising several community-focused events 
-  - Facilitated partnership with other campus groups that support underrepresented students to enhance campus diversity efforts and promote inclusion 
-
-<br>
-
 **Undergraduate Mentorship Organizer**, Womxn in Science and Engineering, UCSB (2019) 
 
-  - Supervised and organized over 300 graduate and undergraduate students by advertising mentorship program, collecting contacts, and pairing mentors with mentees 
-  - Organized quarterly meetings with professional development activities 
-  - Distributed monthly check-in surveys and facilitated mentorship outreach 
-
-<br>
-
 **Seminar Committee** Bren School of Environmental Sci. & Mgmt., UCSB (Fall 2019 – Spring 2020)
-
-  - Invited relevant speakers in environmental research to campus 
-  - Coordinated guest speaker travel arrangements; tracked expenses and maintained budget 
-  - Hosted visitors and coordinated meetings with other researchers; facilitated student interactions
 
 ***	
 
