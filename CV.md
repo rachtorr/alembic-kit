@@ -17,7 +17,7 @@ Bren School of Environmental Science & Management, University of California, San
 Advisor: Dr. Naomi Tague 
 Thesis: Urban tree drought resilience and outdoor water
 conservation in a Mediterranean climate: insights from an ecohydrologic model
-
+<br>
 **Bachelor of Science in Physics, *Summa Cum Laude*** (August 2013 - December 2016)  
 North Park University – Chicago, IL   
 Advisors: Dr. Linda McDonald and Dr. Stephen Ray
@@ -26,7 +26,7 @@ Advisors: Dr. Linda McDonald and Dr. Stephen Ray
 
 #### RESEARCH EXPERIENCE	
 <br>
-**Postdoctoral researcher,***current position*
+**Postdoctoral researcher**, *current position*
 California State Polytechnic University Humboldt, Arcata CA (Jan. 2024)
 Developing culturally-relevant environmental data science curriculum with multi-institutional network. Funded by Alfred P. Sloan Foundation. 
 
